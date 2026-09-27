@@ -1,0 +1,34 @@
+style_name: Cautious Empirical
+lexical_profile:
+  precise_technical: Uses precise technical language over metaphorical or evaluative expressions.
+  hedging_quantifiers: Employs hedging quantifiers to indicate general tendencies rather than absolute claims.
+  formal_register: Maintains a formal register with discipline-specific terminology.
+syntactic_profile:
+  moderate_sentence_length: Favors moderate sentence length with embedded clauses introduced by "as if" or "consistent with".
+  subject_initial_position: Often places the subject "we" at the beginning of sentences for agentivity.
+  parallel_structure: Uses parallel structure when listing items for clarity.
+discourse_profile:
+  claim_evidence_implication: Paragraphs open with a claim, then present supporting evidence, then state implications.
+  contrastive_transitions: Uses contrastive transitions like "Conversely" to compare findings.
+  explicit_signposting: Provides explicit signposting such as "First" and "Finally" to structure results when the analytical sequence genuinely requires it.
+rhetorical_stance:
+  measured_certainty: Expresses measured certainty with phrases like "we find" and "this suggests".
+  acknowledges_limitations: Acknowledges limitations and scope conditions explicitly.
+  avoids_absolute_proofs: Avoids absolute proofs and prefers language of indication and consistency.
+economics_specific_style:
+  conditional_scope: Presents formal criteria using conditional clauses and scope qualifiers.
+  revealed_preference_metaphor: Narrates comparative predictions through revealed-preference metaphors like "acts as if" only when this does not imply unsupported latent beliefs or preferences.
+  tendencies_not_determinism: Interprets model implications as tendencies rather than deterministic outcomes.
+negative_style_profile:
+  no_colloquialisms: Avoids colloquial or informal expressions.
+  no_first_person_singular: Does not use first-person singular or personal anecdotes.
+  no_speculation_without_evidence: Refrains from speculative claims without supporting evidence.
+forbidden_expressions:
+  avoid_overconfident_adverbs: Avoids "obviously", "clearly", and "undoubtedly" to preserve caution.
+  avoid_prove_or_definitely: Avoids "prove" or "definitely" unless in a mathematical context.
+  avoid_unqualified_novelty: Avoids "novel" or "groundbreaking" without qualification.
+human_academic_variant:
+  authorial_selectivity: State what matters and stop when the evidence has done the work.
+  no_reviewer_response_voice: Do not structure ordinary manuscript prose as rebuttal or defensive compliance.
+  no_template_enforcement: Claim-evidence-implication and explicit signposting are available patterns, not mandatory templates.
+  technical_consistency_over_synonyms: Keep defined technical terms stable instead of synonym cycling.
